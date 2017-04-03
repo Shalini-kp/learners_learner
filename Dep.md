@@ -11,7 +11,7 @@ Environment setup
 * sudo apt-get install python-setuptools
 * sudo apt-get install sqlite3
 * python virtualenv -- sudo easy_install virtualenv
-* Creating an setting up virtual environment
+* Creating and setting up virtual environment
 	-> virtualenv --no-site-packages Django_web
 	-> source Django_web/bin/activate 
 	-> cd Djangoweb/
