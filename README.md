@@ -1,5 +1,5 @@
-# learner2
-a learnig webapp developed using django
+# learner1
+a learning webapp with intelligence developed using django and scikit-learn
 Setup
 ------
 > create a virtual env in your working directory and 
