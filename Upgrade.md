@@ -5,3 +5,4 @@
   - source bin/activate
   - pip3 install django
   - pip3 install scikit-learn
+- 'learner2' is the refactored and renewed version of 'learner1
