@@ -42,6 +42,3 @@ Just add these js libraries to your static folder in django project.
 * angular.min.js 
 * jquery-ui-1.11.4.custom
 
-Final Note
-----------
-For interested developers,most of the external packages required for the project along with their documentations are provided in the project CD.
