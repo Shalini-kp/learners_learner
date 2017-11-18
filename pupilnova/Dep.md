@@ -1,6 +1,6 @@
 Prerequisites
 -------------
-* Ubuntu 16.04 LTS
+* Ubuntu
 * python (3.5<)
 * Any browser
 * pydev-python developement tool
