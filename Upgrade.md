@@ -6,4 +6,4 @@
   - pip3 install django
   - pip3 install scikit-learn
 - 'learner2' is the archived Learner's Learner app and developed in branch 'archpupil'
-- For renewed Learner's Learner app checkout 'pupilnova'. It includes the old Learner's Learner for refernce
+- For renewed Learner's Learner app checkout 'pupilnova'
